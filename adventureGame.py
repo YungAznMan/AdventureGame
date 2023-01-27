@@ -117,7 +117,6 @@ def boobyDeath():
     print("You seem to have stepped on a booby trap!")
     print("Suddenly, darts are being shot from the walls as spiders are dropping from the ceiling.")
     deathScene()
-    quit()
 
 def slideScene():
     directions = ["left", "right"]
